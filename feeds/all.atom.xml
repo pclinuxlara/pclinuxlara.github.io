@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PC LINUX LARA S.A. j-31182518-5</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2025-03-04T11:30:00-04:00</updated><entry><title>¿Qué aplicaciones funcionan bien en Linux?.</title><link href="/Aplicaciones%20Authors:%20Samuel%20@srosuna1.html" rel="alternate"></link><published>2025-03-04T11:30:00-04:00</published><updated>2025-03-04T11:30:00-04:00</updated><author><name>Samuel R Osuna @srosuna1</name></author><id>tag:None,2025-03-04:/Aplicaciones Authors: Samuel @srosuna1.html</id><summary type="html">&lt;h2&gt;¿Qué aplicaciones funcionan bien en Linux?.&lt;/h2&gt;
+&lt;p&gt;Linux suele ser una mejor opción que Windows para equipos antiguos debido a varias razones clave relacionadas con el rendimiento, los requisitos de hardware y la flexibilidad del sistema operativo. A continuación, te explico los puntos principales:&lt;/p&gt;
+&lt;h3&gt;1. Navegadores web&lt;/h3&gt;
+&lt;p&gt;En PC Linux Lara …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;¿Qué aplicaciones funcionan bien en Linux?.&lt;/h2&gt;
+&lt;p&gt;Linux suele ser una mejor opción que Windows para equipos antiguos debido a varias razones clave relacionadas con el rendimiento, los requisitos de hardware y la flexibilidad del sistema operativo. A continuación, te explico los puntos principales:&lt;/p&gt;
+&lt;h3&gt;1. Navegadores web&lt;/h3&gt;
+&lt;p&gt;En PC Linux Lara S.A. recomendamos el uso de los siguientes navegadores web:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;     **Firefox**: Uno de los navegadores más populares y de código abierto, optimizado para Linux.
+
+     **Google Chrome**: Aunque no es de código abierto, es compatible con Linux y fácil de instalar.
+
+     **Brave Browser**, Es un clon del anterior pero con mejores prestaciones, disponible para todas las plataformas
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3&gt;2. Ofimática&lt;/h3&gt;
+&lt;p&gt;En este mundo del software libre, existen alternativas libres, abiertas y gratuitas.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;    **LibreOffice**: Una suite ofimática completa y gratuita que incluye procesador de texto, hojas de cálculo y presentaciones.
+
+    **OnlyOffice**: Otra alternativa para trabajar con documentos compatibles con Microsoft Office.
+
+    **Microsfot Online Apps (Office 365)**: Licencia cerrada disponible para trabajar de forma remota con internet, propiedad de Microsoft Office.
+
+    **Microsoft Office**:  emulado con Wine, Playonlinux ha funcionado con algunos detalles minimos, para casos donde las anteriores no pueden prestar mejor opción.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3&gt;3. Edición de imágenes y diseño&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;    **GIMP**: Una herramienta avanzada para la edición de imágenes, similar a Photoshop.
+
+    **Inkscape**: Ideal para diseño gráfico vectorial, como logotipos e ilustraciones.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3&gt;4. Reproducción multimedia&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;    **VLC Media Player**: Un reproductor multimedia versátil que soporta casi todos los formatos de audio y video.
+
+    **Audacity**: Perfecto para la edición de audio y grabaciones.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3&gt;5. Comunicación&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;    **Telegram**: Una aplicación de mensajería rápida y segura que funciona perfectamente en Linux.
+
+    **Discord**: Popular para comunicación en comunidades y videojuegos.
+
+    **Franz**: Whatsapp y otras plataformas
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3&gt;6. Desarrollo y programación.&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;    **Visual Studio Code**: Un editor de código muy popular entre desarrolladores, disponible para Linux.
+
+    **Eclipse**: Ideal para programadores que trabajan con Java y otros lenguajes.
+
+    **Muchos IDEs disponibles y personalizados**
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3&gt;7. Juegos.&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;    **Steam**: Una plataforma de videojuegos que ofrece soporte para muchos títulos compatibles con Linux.
+
+    **RetroArch**: Para emulación de consolas retro.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3&gt;8. Gestión de software&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;    **AppGrid**: Una herramienta para gestionar la instalación de aplicaciones en distribuciones como Ubuntu.
+
+    **Flathub**: Una plataforma para encontrar e instalar cientos de aplicaciones y juegos para Linux.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3&gt;9. Herramientas de productividad&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;    **Todoist**: Una aplicación para gestionar tareas y proyectos.
+
+    **KeePassXC**: Un gestor de contraseñas seguro y de código abierto.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3&gt;10. Otras aplicaciones útiles&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;    **Wine**: Permite ejecutar aplicaciones de Windows en Linux.
+
+    **Timeshift**: Para realizar copias de seguridad del sistema.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;En resumen, Linux ofrece una gran variedad de aplicaciones que cubren prácticamente todas las necesidades, desde navegación web y ofimática hasta desarrollo y entretenimiento. Además, muchas de estas aplicaciones son gratuitas y están optimizadas para funcionar de manera eficiente en este sistema operativo. ¡Explorar estas herramientas puede mejorar tu experiencia en Linux!&lt;/p&gt;
+&lt;p&gt;En Pc Linux Lara S.A. te asesoramos de las diversas herramientas disponibles para usar de forma empresarial en el mundo Linux y el software libre y abierto.-&lt;/p&gt;
+&lt;p&gt;Contáctanos para mayor ￼soporte al whatsapp +584145543095&lt;/p&gt;</content><category term="blog Tags: principal, aplicaciones, linux, otros"></category></entry><entry><title>6 Razones del porqué es mejor usar Linux que Windows en equipos antiguos</title><link href="/hola-mundo%20Authors:%20Samuel%20@srosuna1.html" rel="alternate"></link><published>2025-03-04T10:30:00-04:00</published><updated>2025-03-04T10:30:00-04:00</updated><author><name>Samuel R Osuna @srosuna1</name></author><id>tag:None,2025-03-04:/hola-mundo Authors: Samuel @srosuna1.html</id><summary type="html">&lt;h2&gt;6 Razones del porqué es mejor usar Linux que Windows en equipos antiguos.&lt;/h2&gt;
+&lt;p&gt;Linux suele ser una mejor opción que Windows para equipos antiguos debido a varias razones clave relacionadas con el rendimiento, los requisitos de hardware y la flexibilidad del sistema operativo. A continuación, te explico los puntos principales …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;6 Razones del porqué es mejor usar Linux que Windows en equipos antiguos.&lt;/h2&gt;
+&lt;p&gt;Linux suele ser una mejor opción que Windows para equipos antiguos debido a varias razones clave relacionadas con el rendimiento, los requisitos de hardware y la flexibilidad del sistema operativo. A continuación, te explico los puntos principales:&lt;/p&gt;
+&lt;h3&gt;1. Requisitos de hardware más bajos.&lt;/h3&gt;
+&lt;p&gt;Las distribuciones de Linux están diseñadas para adaptarse a una amplia gama de hardware, incluidas computadoras con recursos limitados. Existen distribuciones ligeras como Lubuntu, Puppy Linux o Linux Lite que pueden funcionar con tan solo 512 MB de RAM o procesadores antiguos como los Pentium II . En cambio, Windows, especialmente las versiones más recientes como Windows 10 o 11, requiere hardware más moderno y potente, lo que deja fuera a muchos equipos antiguos.&lt;/p&gt;
+&lt;h3&gt;2. Mejor rendimiento en equipos con pocos recursos.&lt;/h3&gt;
+&lt;p&gt;Linux es conocido por ser más eficiente en el uso de recursos. Las distribuciones ligeras están optimizadas para consumir menos memoria RAM y CPU, lo que permite que los equipos antiguos funcionen de manera más fluida y rápida. Por ejemplo, algunas distribuciones ligeras pueden ejecutarse con un procesador de 1 GHz y menos de 1 GB de RAM, mientras que Windows 10 o 11 no funcionaría adecuadamente en estas condiciones&lt;/p&gt;
+&lt;h3&gt;3. Mayor personalización y opciones ligeras.&lt;/h3&gt;
+&lt;p&gt;Linux ofrece una gran variedad de distribuciones (distros) diseñadas específicamente para equipos antiguos. Estas distros suelen incluir entornos de escritorio ligeros como LXDE, XFCE o KDE Plasma, que son menos exigentes en términos de recursos que las interfaces de Windows. Esto permite a los usuarios elegir una opción que se adapte perfectamente a las capacidades de su hardware.&lt;/p&gt;
+&lt;h3&gt;4. Soporte para hardware antiguo.&lt;/h3&gt;
+&lt;p&gt;Mientras que Microsoft ha dejado de dar soporte a sistemas operativos como Windows 7 y ha aumentado los requisitos para Windows 11, muchas distribuciones de Linux siguen ofreciendo soporte para hardware más antiguo. Esto significa que puedes mantener tu equipo actualizado y seguro sin necesidad de cambiarlo por uno nuevo.&lt;/p&gt;
+&lt;h3&gt;5. Gratuito y sin licencias restrictivas&lt;/h3&gt;
+&lt;p&gt;Linux es gratuito y de código abierto, lo que significa que no necesitas pagar por licencias ni preocuparte por restricciones de activación. Esto es especialmente útil para equipos antiguos que podrían no justificar el costo de una nueva licencia de Windows.&lt;/p&gt;
+&lt;h3&gt;6. Segunda vida para equipos antiguos&lt;/h3&gt;
+&lt;p&gt;Instalar Linux en un equipo antiguo puede darle una "segunda vida", permitiéndote usarlo para tareas básicas como navegar por internet, escribir documentos o incluso como servidor casero. Esto reduce la generación de residuos electrónicos y fomenta la sostenibilidad.&lt;/p&gt;
+&lt;p&gt;En resumen, Linux es una opción ideal para equipos antiguos debido a su bajo consumo de recursos, flexibilidad y soporte continuo para hardware más viejo. Si tienes un equipo antiguo que ya no puede ejecutar Windows de manera eficiente, probar una distribución ligera de Linux puede ser una excelente solución.&lt;/p&gt;
+&lt;p&gt;En Pc Linux Lara S.A. te asesoramos para que reuses tus equipos antiguos para darle mas vida útil laboral a un costo muy por debajo del mercado.&lt;/p&gt;
+&lt;p&gt;Contáctanos para mayor ￼soporte al whatsapp +584145543095&lt;/p&gt;
+&lt;p&gt;￼
+￼&lt;/p&gt;</content><category term="blog Tags: principal, linux, otros"></category></entry><entry><title>Hola Mundo</title><link href="/hola-mundo%20Authors:%20Rafnix%20Guzm%C3%A1n.html" rel="alternate"></link><published>2019-05-18T10:30:00-04:00</published><updated>2019-05-18T11:30:00-04:00</updated><author><name>Samuel R Osuna @srosuna1</name></author><id>tag:None,2019-05-18:/hola-mundo Authors: Rafnix Guzmán.html</id><summary type="html">&lt;p&gt;Mi primer post usando Pelican y GitHub Pages&lt;/p&gt;</summary><content type="html">&lt;p&gt;Aca pueden empezar a escribir todo lo que quieran pueden agregar todas las sintaxis de Markdown que deseen.&lt;/p&gt;
+&lt;h2&gt;Título&lt;/h2&gt;
+&lt;h3&gt;Subtítulo&lt;/h3&gt;
+&lt;p&gt;Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
+- Elemento 1 
+- Elemento 2 
+- Elemento 3
+Este es un ejemplo de texto que da entrada a una lista numerada:
+1. Elemento 1 
+2. Elemento 2 
+3. Elemento 3
+Al texto en Markdown puedes añadirle formato como negrita o cursiva de una manera muy sencilla.&lt;/p&gt;
+&lt;p&gt;Todo esto fue extraído de este &lt;a href="https://markdown.es/sintaxis-markdown/"&gt;Post sobre markdown&lt;/a&gt;&lt;/p&gt;</content><category term="blog Tags: principal, otros"></category></entry></feed>

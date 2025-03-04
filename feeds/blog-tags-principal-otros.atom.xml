@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PC LINUX LARA S.A. j-31182518-5 - blog Tags: principal, otros</title><link href="/" rel="alternate"></link><link href="/feeds/blog-tags-principal-otros.atom.xml" rel="self"></link><id>/</id><updated>2019-05-18T11:30:00-04:00</updated><entry><title>Hola Mundo</title><link href="/hola-mundo%20Authors:%20Rafnix%20Guzm%C3%A1n.html" rel="alternate"></link><published>2019-05-18T10:30:00-04:00</published><updated>2019-05-18T11:30:00-04:00</updated><author><name>Samuel R Osuna @srosuna1</name></author><id>tag:None,2019-05-18:/hola-mundo Authors: Rafnix Guzmán.html</id><summary type="html">&lt;p&gt;Mi primer post usando Pelican y GitHub Pages&lt;/p&gt;</summary><content type="html">&lt;p&gt;Aca pueden empezar a escribir todo lo que quieran pueden agregar todas las sintaxis de Markdown que deseen.&lt;/p&gt;
+&lt;h2&gt;Título&lt;/h2&gt;
+&lt;h3&gt;Subtítulo&lt;/h3&gt;
+&lt;p&gt;Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
+- Elemento 1 
+- Elemento 2 
+- Elemento 3
+Este es un ejemplo de texto que da entrada a una lista numerada:
+1. Elemento 1 
+2. Elemento 2 
+3. Elemento 3
+Al texto en Markdown puedes añadirle formato como negrita o cursiva de una manera muy sencilla.&lt;/p&gt;
+&lt;p&gt;Todo esto fue extraído de este &lt;a href="https://markdown.es/sintaxis-markdown/"&gt;Post sobre markdown&lt;/a&gt;&lt;/p&gt;</content><category term="blog Tags: principal, otros"></category></entry></feed>
